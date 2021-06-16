@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**utunga/utunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently on the AI team at http://papareo.nz, an Iwi led project building speech and language understanding and synthesis for indigenous languages. Also working on http://cashless.social a decentralized autonomous collective building new forms of resilient, [open source](https://github.com/cashlesssociety), mutual credit based on a core of peer to peer acknowledgements and reciprocity graphs. Previously, founding CTO at recently acquired financial research company CreditSights, in 2019, of the Wellington AI startup [Chatterize](http://speakia.app) and in 2020, co-founder/initiator of the http://mutualaid.world project.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+   - https://github.com/tehikumedia
+   - https://github.com/cashlesssociety
+   - https://github.com/factn
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+   - http://cashless.social
+
+- 📫 How to reach me: 
+ 
+   - http://goodbright.nz 
