@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently on the AI team at http://papareo.nz, an Iwi led project building speech and language understanding and synthesis for indigenous languages. Also working on http://cashless.social a decentralized autonomous collective building new forms of resilient, [open source](https://github.com/cashlesssociety), mutual credit based on a core of peer to peer acknowledgements and reciprocity graphs. Previously, founding CTO at recently acquired financial research company CreditSights. In 2019 CTO of the Wellington AI startup [Chatterize](http://speakia.app) and in 2020, co-founder/initiator of the [Mutual Aid World](http://mutualaid.world) project.
+Currently on the AI team at http://papareo.nz, an Iwi led project building speech and language understanding and synthesis for indigenous languages. Also working on http://cashless.social a decentralized autonomous collective building new forms of resilient, [open source](https://github.com/cashlesssociety), mutual credit based on a core of peer to peer acknowledgements and reciprocity graphs. Previously, founding CTO at NY financial research company CreditSights (acquired for 200m in 2020) and in 2019 founding CTO of the Wellington AI startup [Chatterize](http://speakia.app). In 2020, co-founder/initiator of the [Mutual Aid World](http://mutualaid.world) project.
 
 - 🔭 I’m currently working on
 
