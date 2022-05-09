@@ -6,6 +6,7 @@ Currently machine learning / data science at http://papareo.nz, an Iwi led proje
 
    - https://github.com/tehikumedia
    - https://github.com/cashlesssociety
+   - https://github.com/factn
    - https://github.com/cashlesssociety/together_app
 
 - 💬 Ask me about ...
