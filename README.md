@@ -10,7 +10,7 @@ Currently machine learning / data science at http://papareo.nz, an Iwi led proje
 
 - 💬 Ask me about ...
 
-   - http://cashless.social
+   - https://togetherproject.nz
 
 - 📫 How to reach me: 
  
