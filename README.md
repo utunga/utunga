@@ -20,5 +20,5 @@ My first AI startup was in 2010 [lol](https://github.com/utunga/hashmapd) ;-)
 
 - 📫 How to reach me: 
  
-   - utunga and gmail in approprirate configurations
+   - my @email is my username here plus gmail in the obvious configuration 
    - Also http://goodbright.nz 
