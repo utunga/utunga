@@ -20,4 +20,5 @@ My first AI startup was in 2010 [lol](https://github.com/utunga/hashmapd) ;-)
 
 - 📫 How to reach me: 
  
-   - http://goodbright.nz 
+   - utunga and gmail in approprirate configurations
+   - Also http://goodbright.nz 
